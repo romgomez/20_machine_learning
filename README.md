@@ -48,18 +48,5 @@ Compare the performance of your tuned classifiers to determine the best-performi
 
 - - -
 
-## Hints and Considerations
+## Assumptions/Findings
 
-* Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
-* For each ML algorithm, try a simple model first, and then tune the model using `GridSearch`; if you choose to use deep learning, try different activation functions and number of nodes, layers, etc. (you will need to do this manually).
-
-- - -
-
-## Submission
-
-* Create a Jupyter Notebook and host the notebook on GitHub.
-
-* ***Include a README.md file that summarizes your assumptions and findings.*** Try to include as many visualizations as possible, visualizing the distribution of your features and your models' accuracies.  
-
-* Submit the link to your GitHub project to Bootcamp Spot.
